@@ -74,7 +74,7 @@ The proposed project is a comprehensive Banking Management System called VIRTBAN
 
 # Work Division
 The work division for the group is structured to ensure that each member focuses on different panels, thus minimizing dependency and allowing parallel development.
-+ # Zarmeena:
+* # Zarmeena:
 -  Admin Panel:
  Feature 1 (User Management), Feature 2 (Account Management), Feature 7 (Notification Management)
 -  Customer Panel:
