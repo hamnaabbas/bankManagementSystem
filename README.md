@@ -1,5 +1,4 @@
-# bankManagementSystem
-Web Engineering Project
+#                                           bankManagementSystem
 # Introduction
 The proposed project is a comprehensive Banking Management System called VIRTBANK. This application aims to handle a range of banking operations through different panels (Admin, Customer and Business). Each panel will incorporate various modules such as user management, transaction management, loan and credit services, and business-specific tools like payroll and invoice management. 
 # Project Modules and Features
