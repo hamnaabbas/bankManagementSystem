@@ -74,26 +74,26 @@ The proposed project is a comprehensive Banking Management System called VIRTBAN
 
 # Work Division
 The work division for the group is structured to ensure that each member focuses on different panels, thus minimizing dependency and allowing parallel development.
-+ Zarmeena:
-- # Admin Panel:
++ # Zarmeena:
+-  Admin Panel:
  Feature 1 (User Management), Feature 2 (Account Management), Feature 7 (Notification Management)
-- # Customer Panel:
+-  Customer Panel:
    Feature 1 (Account Overview), Feature 2 (Profile Management), Feature 7 (Customer Support and Help Center)
-- # Business Panel:
--  Feature 1 (Transaction Management), Feature 2 (Loan and Credit Services), Feature 7 (Expense Management)
-+ Hamna:
-- # Admin Panel:
+-  Business Panel:
+  Feature 1 (Transaction Management), Feature 2 (Loan and Credit Services), Feature 7 (Expense Management)
++ # Hamna:
+-  Admin Panel:
  Feature 3 (Transaction Management), Feature 4 (Compliance and Security Management), Feature 5 (Loan and Credit Management)
-- # Customer Panel:
+-  Customer Panel:
    Feature 3 (Transaction Management), Feature 4 (Loan and Credit Services), Feature 5 (Customer Support and Help Center)
-- # Business Panel:
+-  Business Panel:
  Feature 4 (Loan and Credit Services), Feature 5 (Expense Management), Feature 6 (Business Analytics)
-+ Amna:
-- # Admin Panel:
++ # Amna:
+- Admin Panel:
  Feature 6 (Notification Management), Feature 8 (Reports and Analytics), Feature 9 (Audit Logs and Activity Monitoring)
-- # Customer Panel:
+-  Customer Panel:
 Feature 6 (Alerts and Notifications), Feature 8 (Document Management)
-- # Business Panel:
+-  Business Panel:
 Feature 3 (Invoice and Billing Management), Feature 8 (Tax Management), Feature 9 (Business Analytics), Feature 10 (Alerts and Notifications)
 # Conclusion
 The Banking Management System will be a robust, scalable solution that streamlines the banking processes for both individuals and businesses. By dividing the development work based on the functionalities and features within each panel, the team can work efficiently and ensure the timely delivery of the project. With careful implementation and integration of third-party APIs, the system will provide an excellent user experience for both customers and administrators.
