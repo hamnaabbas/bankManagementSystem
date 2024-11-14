@@ -4,31 +4,31 @@ The proposed project is a comprehensive Banking Management System called VIRTBAN
 # Project Modules and Features
 * Admin Panel:
  1. User Management
-  - Allows administrators to create, update, delete, and manage roles (e.g., customer, business) and permissions.
-  - Admins can set up access control for each role, adjust account statuses (e.g., active, inactive), and configure security levels based on user roles. 
+            - Allows administrators to create, update, delete, and manage roles (e.g., customer, business) and permissions.
+            - Admins can set up access control for each role, adjust account statuses (e.g., active, inactive), and configure security levels based on user roles. 
  2. Account Management
-  - Provides CRUD operations to manage customer and business accounts.
-  - Admins can view detailed account information, including balances, transaction history, account status, and any linked services. 
-  - This module also includes features for adjusting limits, managing service subscriptions, and suspending accounts if necessary.
+            - Provides CRUD operations to manage customer and business accounts.
+            - Admins can view detailed account information, including balances, transaction history, account status, and any linked services. 
+            - This module also includes features for adjusting limits, managing service subscriptions, and suspending accounts if necessary.
  3. Transaction Management
-  - Enables transaction monitoring and approval workflows. Admins can view, approve, or flag transactions, including high-value transactions that might require additional verification.
-  - Logs of transaction activities are maintained to track unusual or suspicious activity. This feature ensures transparent and controlled handling of all financial activities within the system.
+            - Enables transaction monitoring and approval workflows. Admins can view, approve, or flag transactions, including high-value transactions that might require additional verification.
+            - Logs of transaction activities are maintained to track unusual or suspicious activity. This feature ensures transparent and controlled handling of all financial activities within the system.
  4. Compliance and Security Management
-  - Implements various security and compliance measures, such as KYC (Know Your Customer) checks, data encryption, and activity monitoring
-  - Admins can access security logs, enforce multi-factor authentication, and maintain compliance with regulatory requirements.
+            - Implements various security and compliance measures, such as KYC (Know Your Customer) checks, data encryption, and activity monitoring
+            - Admins can access security logs, enforce multi-factor authentication, and maintain compliance with regulatory requirements.
  5. Loan and Credit Management
-  - This module provides controls for approving or rejecting loans, tracking loan statuses, and generating repayment schedules.
-  - It also integrates with the customer and business panels to display loan-related information in real-time.
+            - This module provides controls for approving or rejecting loans, tracking loan statuses, and generating repayment schedules.
+            - It also integrates with the customer and business panels to display loan-related information in real-time.
  6. Notification Management
-  - Creates and manages notifications sent to users regarding transactions, system alerts, and other important events. Admins can configure templates for different notifications, such as alerts for large transactions, pending repayments, and loan updates. This feature allows customized notifications based on user roles and settings.
+            - Creates and manages notifications sent to users regarding transactions, system alerts, and other important events. Admins can configure templates for different notifications, such as alerts for large transactions, pending repayments, and loan updates. This feature allows customized notifications based on user roles and settings.
  7. Customer Support Management
-  - Manages customer support tickets and responses. Admins can view all open and closed tickets, assign tickets to support representatives, and view ticket status. 
-  - Integration with the customer panel allows customers to submit issues and receive responses, while admins can track resolution time and customer satisfaction.
+            - Manages customer support tickets and responses. Admins can view all open and closed tickets, assign tickets to support representatives, and view ticket status. 
+            - Integration with the customer panel allows customers to submit issues and receive responses, while admins can track resolution time and customer satisfaction.
  8. Reports and Analytics
-  - Generates analytical reports on system activity, financial metrics, and user behavior. Reports include summaries of daily transactions, account growth, and loan performance.
-  - Admins can export reports and configure scheduled reporting to monitor key performance indicators over time.
+            - Generates analytical reports on system activity, financial metrics, and user behavior. Reports include summaries of daily transactions, account growth, and loan performance.
+            - Admins can export reports and configure scheduled reporting to monitor key performance indicators over time.
  9. Audit Logs and Activity Monitoring
-  - Records all system actions and changes across modules. Admins can review activity logs for each user, tracking login times, transactions, and module accesses to ensure security and troubleshoot any issues. This feature enables compliance with audit requirements.
+            - Records all system actions and changes across modules. Admins can review activity logs for each user, tracking login times, transactions, and module accesses to ensure security and troubleshoot any issues. This feature enables compliance with audit requirements.
 # Customer Panel:
  1. Account Overview
   - Provides an overview of account details, including balances, recent transactions, and account health summaries. Customers can view account history and access a summary of all linked services (e.g., loans, savings accounts).
