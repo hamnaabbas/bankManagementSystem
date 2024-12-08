@@ -1,4 +1,4 @@
-const BusinessLoan = require("../models/BusinessLoan");
+const BusinessLoan = require("../../models/business/businessloanModel");
 
 const businessLoanController = {
   async create(req, res) {

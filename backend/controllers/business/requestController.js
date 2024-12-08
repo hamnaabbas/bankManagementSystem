@@ -1,4 +1,4 @@
-const Request = require("../models/Request");
+const Request = require("../../models/business/requestModel");
 
 const requestController = {
   async create(req, res) {

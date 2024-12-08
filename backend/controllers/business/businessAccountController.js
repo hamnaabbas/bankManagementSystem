@@ -1,4 +1,5 @@
-const BusinessAccount = require("../models/BusinessAccount");
+// businessAccountController.js
+const BusinessAccount = require("../../models/business/businessAccountModel");
 
 const businessAccountController = {
   async create(req, res) {

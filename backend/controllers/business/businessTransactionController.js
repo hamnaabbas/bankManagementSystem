@@ -1,4 +1,4 @@
-const BusinessTransaction = require("../models/BusinessTransaction");
+const BusinessTransaction = require("../../models/business/businesstransactionModel");
 
 const businessTransactionController = {
   async create(req, res) {

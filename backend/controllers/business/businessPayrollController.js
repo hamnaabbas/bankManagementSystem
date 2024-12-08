@@ -1,4 +1,4 @@
-const BusinessPayroll = require("../models/BusinessPayroll");
+const BusinessPayroll = require("../../models/business/businesspayrollModel");
 
 const businessPayrollController = {
   async create(req, res) {

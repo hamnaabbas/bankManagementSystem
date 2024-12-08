@@ -1,4 +1,4 @@
-const RolePermission = require("../models/RolePermission");
+const RolePermission = require("../../models/business/rolePermissionModel");
 
 const rolePermissionController = {
   async create(req, res) {
